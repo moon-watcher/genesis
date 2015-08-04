@@ -1,0 +1,2 @@
+export GENDEV=/opt/toolchains/gen
+export PATH=$GENDEV/m68k-elf/bin:$GENDEV/bin:$PATH

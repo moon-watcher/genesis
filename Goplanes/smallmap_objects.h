@@ -1,0 +1,5 @@
+#ifndef SMALLMAP_OBJECTS_INCLUDE_H
+#define SMALLMAP_OBJECTS_INCLUDE_H
+
+#endif
+

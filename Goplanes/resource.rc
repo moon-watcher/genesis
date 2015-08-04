@@ -1,0 +1,22 @@
+SPRITE foregroundSprite "data/foreground16Colors.bmp" 8 8
+SPRITE backgroundSprite "data/background16Colors.bmp" 8 8
+SPRITE goplanesSprite "data/goplanes.bmp" 24 24
+SPRITE enemyPlaneSprite "data/enemy_plane.bmp" 24 24
+SPRITE bulletSprite "data/bullet.bmp" 8 8
+SPRITE explosionSprite "data/explosion.bmp" 16 16
+SPRITE poofSprite "data/poof.bmp" 16 16
+SPRITE muzzleflashSprite "data/muzzleflash.bmp" 8 8
+SPRITE largeExplosionSprite "data/largeexplosion.bmp" 32 32
+SPRITE coinSprite	"data/coin.bmp" 16 16
+SPRITE coinSparkleSprite "data/coin_sparkle.bmp" 8 8 
+SPRITE afterburnerSprite "data/afterburner.bmp" 16 16
+SPRITE afterburnerChargeSprite "data/afterburnerchargeup.bmp" 16 16
+SPRITE breakableRockSprite "data/breakable_rock.bmp" 32 32
+SPRITE exclamationSprite "data/exclamation_small.bmp" 16 16 
+SPRITE radarArrowSprite "data/radar_arrow.bmp" 24 24
+SPRITE heartSprite "data/heart.bmp" 8 32
+SPRITE fireballSprite "data/fireball.bmp" 16 16
+SPRITE fireballPickupSprite "data/fireball_pickup.bmp" 24 24
+SPRITE hudSprite "data/hud.bmp" 8 8
+                                                   
+; always finish with a blank line or comment
